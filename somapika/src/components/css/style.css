@@ -1,0 +1,42 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ 
+ 
+ .headingstyle 
+ {
+    background-color : pink;
+    color: gray;
+    text-align : center;
+}
+
+.card 
+{
+    background-color: indianred;
+    color: ivory;
+    text-align: center;
+    box-shadow: 2px 4px 4px black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 390px;
+    display: inline-block;
+    
+
+}
+
+.box
+{
+    background-color: indianred;
+    color: ivory;
+    text-align: center;
+    box-shadow: 2px 4px 4px black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 390px;
+    display: inline-block;
+    
+
+}
