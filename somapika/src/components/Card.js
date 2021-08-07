@@ -14,7 +14,6 @@ function Card(props){
   return <div   className="card"> 
               <h1 > {props.text}</h1>
               <p  >CSE student</p>
-              <p>Test</p>
          </div>
 }
 
